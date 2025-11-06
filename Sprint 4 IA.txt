@@ -1,0 +1,67 @@
+HC ACESSO FÁCIL - PREVISÃO DE ABSENTEÍSMO
+==========================================
+
+INTEGRANTES:
+------------
+- Gustavo Tavares da Silva - RM562827
+- Fellipe Costa de Oliveira - RM564673
+- Felype Ferreira Maschio - RM563009
+
+PROBLEMA:
+---------
+Absenteísmo em teleconsultas causa:
+- Perda de tempo médico
+- Ociosidade de recursos
+- Prejuízo ao atendimento
+- Desorganização de agendas
+
+SOLUÇÃO:
+--------
+Sistema preditivo de machine learning que:
+- Classifica probabilidade de faltas
+- Identifica pacientes de alto risco
+- Auxilia na priorização de contatos
+- Otimiza agendamentos
+
+TECNOLOGIAS:
+------------
+- Python + Scikit-learn
+- Random Forest (supervisionado)
+- K-Means (não supervisionado)
+- Flask para API
+- Joblib para deploy
+
+FUNCIONALIDADES:
+----------------
+- Analise de 14 variaveis do paciente
+- Classificacao: alto/baixo risco
+- Probabilidade numerica de falta
+- API REST para integracao
+
+VARIAVEIS ANALISADAS:
+---------------------
+- Historico de faltas anteriores
+- Tipos de lembrete enviados
+- Tempo ate consulta
+- Distancia do paciente
+- Condicoes climaticas
+- Comorbidades
+- Fatores socioeconomicos
+
+ENTREGA:
+--------
+- Modelo treinado (.joblib)
+- API funcional localmente
+- Notebook completo de analise
+- Documentacao tecnica
+
+BENEFICIOS:
+-----------
+- Reducao de faltas
+- Otimizacao de agendas
+- Acoes preventivas direcionadas
+- Tomada de decisao baseada em dados
+
+REPOSITORIO:
+------------
+https://github.com/gustavaress/Sprint-4-IA-2025
