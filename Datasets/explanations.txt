@@ -1,0 +1,66 @@
+Membros do grupo:
+- Fellipe Costa de Oliveira – RM RM564673
+- Pedro Henrique dos Santos Costa – RM 562156
+- Felype Ferreira Maschio – RM 563009
+
+Conteúdo do .zip:
+- patients.csv: cadastro simulado de pacientes (N=4000)
+- clinicians.csv: lista de clínicos/serviços (N=120)
+- appointments.csv: base principal de consultas (N=10000)
+- reminders.csv: registros de lembretes/enviados
+- teleconsult_logs.csv: logs de teleconsulta (conexão, duração, qualidade) para um subconjunto
+
+Resumo dos dados e justificativa:
+- Objetivo: criar um conjunto de dados aderente ao tema (absenteísmo em teleconsultas) para treinar modelos que prevejam
+  não comparecimento (no-show) e avaliar intervenções (ex.: envio de lembretes, canal de contato, remarcação proativa).
+- Tipo de dados: tabelas em CSV, sintéticas (dados fictícios), preservando anonimato e evitando PHI.
+- Fonte/Coleta: dados gerados sinteticamente com distribuição e correlações inspiradas em literatura sobre absenteísmo:
+  fatores considerados incluem histórico de faltas, envios de lembrete (SMS/ligação/email), tempo entre agendamento e consulta,
+  índice socioeconômico (proxy), distância até hospital, condições climáticas, greve transporte (simulada), plataforma usada,
+  especialidade e dia/hora da consulta.
+- Quantidade: ~10.000 registros de consulta, 4.000 pacientes distintos, 120 clínicos. Logs de teleconsulta para 1.500 atendimentos.
+- Qualidade e limitações:
+  * Dados sintéticos: úteis para pesquisa, prototipagem e comparação de modelos, mas não substituem dados reais do Hospital das Clinicas.
+  * Possíveis vieses: distribuição socioeconômica, taxa de lembretes e prior_no_shows são simuladas e podem não refletir a população real.
+  * Privacidade: não existem nomes reais, CPFs, endereços ou identificadores pessoais reais.
+- Rótulos:
+  * 'outcome' na appointments.csv: 'attended' vs 'no_show' (principal rótulo para classificação).
+  * 'reason_cancel' captura motivo se o paciente cancelou ativamente.
+  * teleconsult_logs.connected também indica presença técnica (conectou/não).
+- Variáveis importantes (exemplos):
+  * prior_no_shows: histórico do paciente (forte preditor)
+  * reminder_sms / reminder_call / reminder_email: efetividade de lembretes
+  * lead_time_days: maior antecedência tende a aumentar no-shows
+  * socioeconomic_index / distance_km: proxies socioeconômicos e de acesso
+  * platform, scheduled_duration_min, specialty, day_of_week, hour_of_day
+  * weather_rain, public_transport_strike (variáveis de contexto)
+- Objetivos de modelagem possíveis:
+  1) Classificação binária: prever 'no_show' (metas: recall alto para detectar risco, e F1 balanceado)
+  2) Ranking/risco: pontuar consultas por risco de não comparecimento para priorizar intervenções
+  3) Causal/contrafactual: estimar impacto de envio de SMS/ligação (A/B) sobre redução de no-shows
+  4) Agrupamento (clustering) de pacientes com comportamento de não comparecimento
+- Sugestões de métricas e validação:
+  * Métricas: AUC-ROC, AUC-PR (dado desbalanceamento), F1-score, recall@k (se priorizar intervenção), precisão por subgrupos sociodemográficos.
+  * Validação: validação temporal (treinar em períodos anteriores, testar em períodos posteriores) para simular deploy real.
+- Recomendações de intervenções a testar com modelos:
+  * Envio automatizado de SMS + ligação para alto risco
+  * Oferecer remarcação rápida ou pré-check telemédico para pacientes com alto lead_time
+  * Agendamento preferencial em horários com menor no-show por perfil
+- Uso ético:
+  * Evitar decisões automáticas que possam restringir acesso a atendimento sem revisão humana.
+  * Monitorar vieses e desempenho por subgrupos (idade, gênero, índice socioeconômico, bairro).
+  * Preferir explicabilidade (ex.: SHAP) ao aplicar intervenções automatizadas.
+
+Observação final:
+- Os arquivos são sintéticos e destinados a treinamento e prototipagem. Para produção no Hospital das Clinicas, seria necessária
+  integração com dados reais, revisão ética, aprovação institucional e medidas robustas de governança e privacidade.
+
+
+Atualização: Foram adicionadas colunas adicionais:
+- insurance_type (tipo de convênio)
+- comorbidity_count
+- has_diabetes, has_hypertension, has_chronic_resp
+- diagnosis_icd10 (código ICD-10 simulado)
+- primary_diag_group
+
+Arquivos novos: *_enhanced.csv

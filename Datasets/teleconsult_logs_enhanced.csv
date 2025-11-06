@@ -1,0 +1,1501 @@
+appointment_id,connected,connect_delay_min,actual_duration_min,video_ok,audio_ok,insurance_type
+A309953,1,2.0,13,1,1,Convênio Privado
+A303850,0,,0,0,0,SUS (público)
+A304962,1,3.0,35,1,1,SUS (público)
+A303886,0,,0,0,0,Particular (sem convênio)
+A305437,1,0.0,13,0,1,SUS (público)
+A308517,1,0.0,17,1,1,Convênio Privado
+A302041,1,0.0,70,1,1,Convênio Privado
+A301989,1,0.0,26,1,1,SUS (público)
+A301933,1,0.0,23,1,1,Convênio Privado
+A309984,1,4.0,13,1,0,Convênio Privado
+A308418,1,0.0,12,1,1,SUS (público)
+A302418,1,6.0,20,0,1,SUS (público)
+A306811,1,0.0,20,1,1,SUS (público)
+A301217,1,2.0,21,1,1,Convênio Privado
+A306978,1,0.0,26,0,1,Particular (sem convênio)
+A306111,1,2.0,48,0,1,SUS (público)
+A307865,1,0.0,15,1,1,SUS (público)
+A307781,1,0.0,11,1,1,SUS (público)
+A307775,1,0.0,21,1,1,Convênio Privado
+A307039,1,5.0,12,1,1,Particular (sem convênio)
+A307673,1,13.0,30,1,1,Convênio Privado
+A302907,1,0.0,34,1,0,Particular (sem convênio)
+A301266,1,0.0,50,1,1,Convênio Privado
+A302370,1,0.0,29,1,1,Convênio Privado
+A303092,1,3.0,16,1,1,Particular (sem convênio)
+A300130,1,2.0,15,1,1,Particular (sem convênio)
+A301988,1,0.0,17,1,1,Convênio Privado
+A307877,1,0.0,19,0,1,Particular (sem convênio)
+A306450,1,7.0,31,1,1,Convênio Público/Estatal
+A306880,1,0.0,37,1,1,Particular (sem convênio)
+A301768,1,4.0,11,1,1,Particular (sem convênio)
+A309059,1,0.0,21,1,1,SUS (público)
+A305512,1,2.0,53,1,1,SUS (público)
+A306343,1,8.0,30,1,1,SUS (público)
+A306702,1,4.0,20,0,1,SUS (público)
+A300574,1,4.0,22,1,0,SUS (público)
+A306426,1,1.0,15,1,1,Convênio Privado
+A301520,1,3.0,28,1,1,SUS (público)
+A309887,1,0.0,16,0,1,SUS (público)
+A301958,1,1.0,58,1,1,SUS (público)
+A304487,1,6.0,34,1,1,SUS (público)
+A300859,1,8.0,30,1,1,Particular (sem convênio)
+A302874,1,10.0,21,1,1,SUS (público)
+A308594,1,5.0,58,1,1,Particular (sem convênio)
+A309725,1,0.0,20,1,1,Convênio Privado
+A303265,1,0.0,38,1,1,Convênio Privado
+A303727,1,0.0,21,1,1,SUS (público)
+A308738,0,,0,0,0,Particular (sem convênio)
+A304437,1,2.0,15,1,1,SUS (público)
+A303304,1,8.0,26,1,1,SUS (público)
+A308133,1,0.0,26,1,1,Convênio Privado
+A308460,1,3.0,68,0,1,SUS (público)
+A303059,1,0.0,37,1,1,Particular (sem convênio)
+A301764,1,0.0,21,1,1,SUS (público)
+A307565,1,2.0,23,1,1,Particular (sem convênio)
+A304687,1,0.0,48,1,1,Convênio Privado
+A309781,1,4.0,12,1,1,SUS (público)
+A304161,1,0.0,25,1,1,SUS (público)
+A300806,1,10.0,18,0,1,Convênio Privado
+A308074,1,4.0,24,1,1,SUS (público)
+A300286,1,4.0,20,1,1,Convênio Privado
+A305131,1,4.0,11,1,1,Convênio Privado
+A307922,1,3.0,21,1,1,SUS (público)
+A302856,1,1.0,40,0,1,Convênio Privado
+A304061,1,0.0,24,0,0,Convênio Privado
+A304049,1,3.0,23,1,1,SUS (público)
+A306391,1,0.0,15,1,0,SUS (público)
+A305194,1,5.0,21,1,1,Convênio Privado
+A302159,1,2.0,21,1,1,Convênio Privado
+A303588,1,6.0,28,1,1,SUS (público)
+A300254,1,3.0,23,1,1,Particular (sem convênio)
+A304543,1,0.0,14,1,1,SUS (público)
+A305287,1,7.0,14,1,1,Convênio Privado
+A308628,1,0.0,41,1,1,Particular (sem convênio)
+A301125,1,4.0,33,0,1,SUS (público)
+A309014,1,1.0,21,0,0,SUS (público)
+A301321,1,6.0,11,1,1,SUS (público)
+A304146,1,0.0,17,1,1,SUS (público)
+A309091,1,4.0,16,1,1,SUS (público)
+A304360,1,7.0,35,1,1,SUS (público)
+A305993,1,3.0,17,1,1,Particular (sem convênio)
+A305063,1,6.0,15,1,1,SUS (público)
+A307344,1,0.0,14,1,1,SUS (público)
+A307437,1,6.0,23,1,1,SUS (público)
+A305563,1,0.0,16,1,1,SUS (público)
+A302116,1,0.0,41,1,1,SUS (público)
+A302023,1,0.0,19,1,1,Convênio Privado
+A309112,1,9.0,36,1,1,Convênio Privado
+A307782,1,3.0,22,1,1,Convênio Privado
+A307204,1,1.0,32,1,1,SUS (público)
+A300222,1,0.0,17,1,1,Particular (sem convênio)
+A300218,1,0.0,38,0,1,SUS (público)
+A306237,1,0.0,32,0,1,SUS (público)
+A300625,1,1.0,33,1,1,Convênio Privado
+A304717,1,0.0,39,1,1,Particular (sem convênio)
+A304699,1,4.0,27,1,1,Convênio Privado
+A303057,1,2.0,18,1,1,SUS (público)
+A301185,1,2.0,23,1,1,Convênio Privado
+A303207,1,0.0,35,0,1,SUS (público)
+A309462,0,,0,0,0,SUS (público)
+A306525,1,12.0,19,1,1,SUS (público)
+A304942,1,3.0,25,0,1,Convênio Público/Estatal
+A307737,1,0.0,15,1,1,Convênio Privado
+A306849,1,0.0,11,1,1,Convênio Privado
+A306203,1,0.0,19,1,1,Convênio Privado
+A305329,1,8.0,10,1,1,SUS (público)
+A306005,1,9.0,42,1,1,SUS (público)
+A305397,1,3.0,23,1,1,SUS (público)
+A302563,1,9.0,30,1,1,Particular (sem convênio)
+A300619,1,9.0,35,1,1,SUS (público)
+A309727,1,8.0,17,0,0,Particular (sem convênio)
+A309073,1,0.0,20,1,1,SUS (público)
+A303554,1,9.0,13,1,1,Convênio Privado
+A305966,1,0.0,11,0,1,Convênio Privado
+A300876,1,4.0,43,1,1,Convênio Privado
+A303612,1,6.0,33,1,1,Particular (sem convênio)
+A300691,1,0.0,38,0,1,Convênio Privado
+A306056,0,,0,0,0,Convênio Privado
+A302080,1,0.0,14,1,0,Particular (sem convênio)
+A309647,1,13.0,15,1,1,SUS (público)
+A301177,1,6.0,32,1,1,SUS (público)
+A304741,1,4.0,27,0,1,Convênio Privado
+A301755,1,0.0,20,1,1,SUS (público)
+A307214,1,0.0,13,1,1,Convênio Privado
+A301615,1,7.0,15,1,1,SUS (público)
+A305482,1,0.0,21,1,0,SUS (público)
+A307691,1,0.0,13,0,1,SUS (público)
+A306312,1,5.0,21,1,1,Particular (sem convênio)
+A308326,1,5.0,22,1,1,Particular (sem convênio)
+A307600,1,6.0,17,1,1,SUS (público)
+A306103,1,0.0,20,1,1,Particular (sem convênio)
+A309629,1,0.0,13,1,1,SUS (público)
+A300941,0,,0,0,0,SUS (público)
+A305265,1,4.0,18,1,1,Convênio Privado
+A301289,1,0.0,10,1,1,SUS (público)
+A300956,1,6.0,10,1,1,Convênio Privado
+A307228,1,2.0,30,1,1,Convênio Privado
+A301987,1,7.0,16,1,1,Particular (sem convênio)
+A304166,1,0.0,23,1,1,Convênio Privado
+A302144,1,10.0,18,1,1,Particular (sem convênio)
+A308190,1,4.0,21,1,1,SUS (público)
+A304989,1,2.0,16,1,1,SUS (público)
+A303953,1,7.0,17,1,1,SUS (público)
+A307539,1,4.0,26,0,1,SUS (público)
+A301338,1,9.0,17,1,1,SUS (público)
+A303841,1,2.0,12,1,1,SUS (público)
+A307878,1,2.0,22,1,1,Convênio Privado
+A302126,1,1.0,21,0,1,Convênio Privado
+A302285,1,1.0,12,1,1,Particular (sem convênio)
+A307340,1,0.0,13,1,1,Particular (sem convênio)
+A309108,1,7.0,17,1,1,Particular (sem convênio)
+A302416,1,0.0,20,1,1,SUS (público)
+A306686,1,0.0,14,1,1,Convênio Privado
+A309790,1,1.0,15,1,1,SUS (público)
+A305048,1,0.0,17,1,1,SUS (público)
+A301571,1,9.0,22,1,1,SUS (público)
+A307957,1,0.0,14,1,1,Particular (sem convênio)
+A306638,1,0.0,14,1,1,Convênio Privado
+A303432,1,0.0,42,0,1,SUS (público)
+A301515,1,6.0,12,1,1,Particular (sem convênio)
+A307970,1,4.0,17,1,1,SUS (público)
+A301488,1,10.0,47,1,1,Convênio Privado
+A305781,1,4.0,43,1,1,SUS (público)
+A301720,1,6.0,28,1,1,SUS (público)
+A307313,1,0.0,34,1,1,Particular (sem convênio)
+A309821,1,4.0,45,1,1,Convênio Privado
+A302802,1,6.0,17,1,1,SUS (público)
+A305196,1,5.0,29,1,1,SUS (público)
+A302362,1,0.0,11,1,1,Convênio Privado
+A307832,0,,0,0,0,SUS (público)
+A306238,1,4.0,17,1,1,SUS (público)
+A307359,1,3.0,16,1,1,SUS (público)
+A309939,1,0.0,15,1,0,SUS (público)
+A300793,0,,0,0,0,Convênio Público/Estatal
+A301572,1,0.0,11,1,1,Convênio Privado
+A301315,1,0.0,34,1,1,Particular (sem convênio)
+A308477,0,,0,0,0,SUS (público)
+A301094,1,1.0,12,1,1,Convênio Privado
+A308900,1,3.0,68,0,1,Convênio Privado
+A301986,1,5.0,19,1,1,SUS (público)
+A307091,1,3.0,29,1,1,Convênio Privado
+A306872,1,0.0,19,0,1,Convênio Privado
+A302438,1,0.0,28,1,1,Convênio Público/Estatal
+A301967,1,1.0,19,1,0,SUS (público)
+A309013,1,0.0,17,1,1,SUS (público)
+A304268,1,4.0,34,1,1,Particular (sem convênio)
+A308897,1,0.0,12,1,1,Particular (sem convênio)
+A301868,1,6.0,15,0,1,SUS (público)
+A307531,1,0.0,34,1,1,Convênio Privado
+A305919,1,2.0,11,1,1,SUS (público)
+A306565,1,0.0,32,1,1,SUS (público)
+A303832,1,3.0,12,1,0,Convênio Privado
+A302227,1,2.0,22,1,1,Convênio Privado
+A304106,1,5.0,13,1,1,SUS (público)
+A304228,0,,0,0,0,SUS (público)
+A304232,1,0.0,22,0,1,Convênio Privado
+A306936,0,,0,0,0,Convênio Privado
+A308415,1,5.0,23,1,1,Particular (sem convênio)
+A307759,1,3.0,69,1,1,SUS (público)
+A309541,1,0.0,18,1,1,Particular (sem convênio)
+A304659,1,1.0,36,1,1,SUS (público)
+A306711,1,0.0,12,1,1,SUS (público)
+A304363,1,0.0,16,1,1,SUS (público)
+A301264,1,2.0,18,1,0,Particular (sem convênio)
+A302134,1,4.0,17,1,1,Convênio Público/Estatal
+A306419,1,8.0,18,1,1,SUS (público)
+A309857,1,13.0,17,1,1,SUS (público)
+A306159,1,11.0,11,0,1,Convênio Privado
+A304560,1,0.0,41,1,1,SUS (público)
+A301873,0,,0,0,0,SUS (público)
+A301890,1,0.0,56,1,0,SUS (público)
+A300685,1,0.0,27,1,1,SUS (público)
+A301820,1,4.0,14,1,1,SUS (público)
+A301946,1,8.0,23,1,1,Convênio Privado
+A306142,1,8.0,22,1,1,Particular (sem convênio)
+A305769,1,9.0,12,1,1,Particular (sem convênio)
+A305680,1,4.0,28,1,1,SUS (público)
+A309759,1,9.0,21,1,1,SUS (público)
+A306260,1,0.0,34,1,1,SUS (público)
+A305220,1,6.0,46,1,1,SUS (público)
+A302795,1,0.0,12,1,1,SUS (público)
+A302487,1,0.0,43,1,1,Particular (sem convênio)
+A305174,1,0.0,17,0,1,SUS (público)
+A306529,1,3.0,21,1,0,Particular (sem convênio)
+A309492,1,2.0,22,1,1,Particular (sem convênio)
+A304211,1,3.0,22,1,1,Particular (sem convênio)
+A305892,1,0.0,21,1,1,Particular (sem convênio)
+A300260,1,13.0,32,0,1,SUS (público)
+A301883,1,0.0,14,1,1,SUS (público)
+A302550,1,0.0,31,1,0,SUS (público)
+A309453,0,,0,0,0,SUS (público)
+A301410,1,0.0,16,1,1,SUS (público)
+A301859,0,,0,0,0,SUS (público)
+A303842,1,4.0,23,1,1,SUS (público)
+A300830,1,4.0,17,1,1,SUS (público)
+A303632,1,0.0,36,1,1,SUS (público)
+A302706,1,0.0,35,1,1,Convênio Privado
+A305809,0,,0,0,0,SUS (público)
+A307504,1,0.0,23,1,1,SUS (público)
+A305692,1,3.0,22,1,1,SUS (público)
+A305134,0,,0,0,0,Particular (sem convênio)
+A301729,1,2.0,31,1,1,Convênio Privado
+A302649,1,0.0,34,1,1,Convênio Privado
+A300278,1,3.0,35,0,1,Convênio Privado
+A308295,1,7.0,30,1,1,Convênio Privado
+A307012,1,1.0,40,1,1,Convênio Privado
+A309052,1,0.0,20,1,1,Convênio Privado
+A301893,0,,0,0,0,Convênio Público/Estatal
+A305847,1,3.0,11,1,1,Particular (sem convênio)
+A305635,1,0.0,34,1,1,Particular (sem convênio)
+A306973,1,0.0,21,1,1,SUS (público)
+A304544,1,7.0,16,1,1,SUS (público)
+A307095,1,4.0,20,1,1,SUS (público)
+A303883,1,6.0,59,0,1,Convênio Privado
+A305027,1,0.0,22,1,1,SUS (público)
+A307772,1,5.0,11,1,1,Particular (sem convênio)
+A301545,1,0.0,32,1,1,Particular (sem convênio)
+A300825,1,0.0,23,1,1,SUS (público)
+A300594,1,0.0,12,1,1,Particular (sem convênio)
+A301546,1,4.0,17,1,1,SUS (público)
+A308058,1,8.0,30,1,1,SUS (público)
+A304854,1,0.0,12,1,1,SUS (público)
+A304351,1,0.0,23,1,1,Particular (sem convênio)
+A308714,1,3.0,19,1,1,Particular (sem convênio)
+A300128,1,2.0,25,1,1,Particular (sem convênio)
+A307506,1,0.0,16,1,1,SUS (público)
+A304311,1,0.0,26,1,1,Convênio Privado
+A303675,0,,0,0,0,Convênio Público/Estatal
+A307352,1,0.0,16,1,1,Convênio Privado
+A308676,1,8.0,14,1,1,SUS (público)
+A303086,1,0.0,52,1,0,SUS (público)
+A301732,1,0.0,15,1,1,SUS (público)
+A300674,1,0.0,19,1,1,Particular (sem convênio)
+A309648,0,,0,0,0,Particular (sem convênio)
+A300274,1,0.0,23,1,1,Convênio Privado
+A309789,1,2.0,27,1,0,SUS (público)
+A307023,1,0.0,13,1,1,SUS (público)
+A307251,1,4.0,20,1,1,Particular (sem convênio)
+A308516,1,0.0,34,1,1,SUS (público)
+A309691,1,0.0,15,0,1,SUS (público)
+A302354,1,0.0,15,1,1,Particular (sem convênio)
+A301170,1,1.0,37,1,0,Convênio Público/Estatal
+A301939,1,0.0,47,1,1,SUS (público)
+A305929,1,5.0,23,0,1,Convênio Privado
+A301225,0,,0,0,0,Convênio Privado
+A301912,1,0.0,23,1,1,Particular (sem convênio)
+A304036,1,7.0,22,1,1,SUS (público)
+A302733,1,1.0,15,1,1,SUS (público)
+A302090,1,0.0,12,1,1,SUS (público)
+A304519,0,,0,0,0,SUS (público)
+A308787,1,5.0,45,1,1,SUS (público)
+A307881,1,5.0,29,1,1,SUS (público)
+A304327,1,4.0,18,1,1,Convênio Privado
+A302707,1,0.0,35,1,1,SUS (público)
+A300112,1,0.0,26,1,0,Convênio Privado
+A306487,1,0.0,38,1,1,Convênio Privado
+A303704,0,,0,0,0,SUS (público)
+A308150,1,4.0,13,1,0,SUS (público)
+A303068,1,3.0,23,1,1,Convênio Privado
+A300550,1,5.0,14,1,1,Particular (sem convênio)
+A306568,1,0.0,41,1,1,Convênio Privado
+A305143,1,6.0,12,1,1,SUS (público)
+A304642,1,5.0,21,1,1,Convênio Privado
+A302333,1,4.0,18,1,1,SUS (público)
+A307718,1,2.0,15,1,1,SUS (público)
+A300229,1,0.0,31,1,1,Convênio Privado
+A304804,1,10.0,54,1,1,Convênio Privado
+A300473,1,3.0,34,1,1,SUS (público)
+A303014,1,9.0,16,1,1,Particular (sem convênio)
+A303491,1,1.0,21,1,1,Convênio Privado
+A304571,1,1.0,17,1,1,Convênio Privado
+A305183,1,0.0,35,1,0,Particular (sem convênio)
+A309530,1,0.0,20,1,1,SUS (público)
+A304993,1,1.0,41,0,1,Convênio Privado
+A302963,1,1.0,13,1,1,SUS (público)
+A308348,1,0.0,32,1,0,Convênio Privado
+A302098,1,4.0,52,1,1,SUS (público)
+A306722,1,0.0,31,1,1,Particular (sem convênio)
+A300234,1,0.0,32,1,1,SUS (público)
+A306077,1,8.0,15,0,1,Convênio Público/Estatal
+A300589,1,1.0,31,1,1,Convênio Privado
+A300994,1,3.0,13,1,1,Convênio Privado
+A303169,1,0.0,27,1,1,Convênio Privado
+A303864,1,0.0,27,1,1,SUS (público)
+A309381,1,0.0,26,0,1,SUS (público)
+A309317,1,0.0,25,1,1,Particular (sem convênio)
+A306868,1,9.0,22,1,1,SUS (público)
+A300712,1,0.0,35,1,1,Convênio Privado
+A307561,1,3.0,15,1,1,SUS (público)
+A302987,1,1.0,17,1,1,Convênio Privado
+A309060,1,1.0,22,1,1,Convênio Privado
+A308527,1,6.0,15,1,1,SUS (público)
+A303195,1,0.0,15,1,1,SUS (público)
+A308299,0,,0,0,0,SUS (público)
+A306996,0,,0,0,0,SUS (público)
+A306309,1,3.0,19,1,1,SUS (público)
+A304289,1,3.0,15,0,1,Convênio Privado
+A300931,1,10.0,31,1,1,Particular (sem convênio)
+A301475,1,0.0,20,1,1,Convênio Privado
+A309818,1,0.0,15,0,0,Particular (sem convênio)
+A303707,1,12.0,46,1,1,SUS (público)
+A302355,0,,0,0,0,Particular (sem convênio)
+A307510,1,3.0,29,1,1,SUS (público)
+A308500,1,0.0,16,1,1,SUS (público)
+A302512,1,0.0,17,1,1,SUS (público)
+A308043,0,,0,0,0,Convênio Privado
+A304634,1,5.0,12,1,1,SUS (público)
+A300587,1,9.0,45,1,1,SUS (público)
+A301685,1,4.0,22,1,0,Convênio Privado
+A301049,1,1.0,17,1,1,SUS (público)
+A303801,1,0.0,23,1,1,SUS (público)
+A306781,1,5.0,21,1,1,SUS (público)
+A309280,1,3.0,23,1,1,Convênio Público/Estatal
+A303001,1,4.0,21,1,1,Convênio Público/Estatal
+A306207,0,,0,0,0,SUS (público)
+A301435,1,1.0,33,1,1,Particular (sem convênio)
+A303732,1,2.0,23,1,1,Particular (sem convênio)
+A306008,1,0.0,30,1,1,Convênio Público/Estatal
+A309165,1,5.0,15,1,1,Particular (sem convênio)
+A307532,1,0.0,11,1,1,Particular (sem convênio)
+A304432,1,1.0,14,1,1,SUS (público)
+A309270,1,0.0,17,1,1,SUS (público)
+A303123,1,3.0,22,1,1,SUS (público)
+A306888,1,10.0,21,1,1,Convênio Privado
+A303948,1,7.0,12,1,1,Convênio Privado
+A300975,1,6.0,20,1,1,Convênio Privado
+A305615,1,0.0,46,1,1,Particular (sem convênio)
+A301718,1,0.0,29,1,1,SUS (público)
+A302582,1,7.0,18,1,1,SUS (público)
+A300043,1,3.0,21,1,1,Convênio Privado
+A307752,1,0.0,40,0,1,SUS (público)
+A300372,1,0.0,61,0,1,Convênio Privado
+A303521,1,0.0,18,1,1,SUS (público)
+A309653,1,8.0,22,0,0,SUS (público)
+A301165,1,0.0,51,1,1,SUS (público)
+A300397,1,2.0,53,0,1,SUS (público)
+A308027,1,6.0,34,1,1,SUS (público)
+A306910,1,1.0,11,1,1,Convênio Privado
+A306011,1,0.0,28,1,1,SUS (público)
+A301312,1,9.0,15,1,1,SUS (público)
+A307465,0,,0,0,0,Particular (sem convênio)
+A308183,1,4.0,20,1,1,Convênio Privado
+A309176,1,0.0,19,1,1,Convênio Privado
+A303262,1,0.0,18,1,1,SUS (público)
+A302106,0,,0,0,0,Convênio Privado
+A304076,1,0.0,21,1,1,SUS (público)
+A309055,1,0.0,30,0,1,Convênio Público/Estatal
+A306799,1,5.0,17,1,1,Convênio Privado
+A307374,1,4.0,18,1,1,Convênio Público/Estatal
+A304534,1,1.0,17,1,1,SUS (público)
+A302053,1,6.0,26,1,0,SUS (público)
+A309168,1,0.0,23,1,1,SUS (público)
+A302973,1,0.0,12,1,1,SUS (público)
+A302305,1,2.0,13,1,1,Convênio Público/Estatal
+A302040,1,0.0,35,1,1,Convênio Privado
+A306116,1,7.0,14,1,0,SUS (público)
+A307138,1,4.0,23,0,0,SUS (público)
+A309883,1,3.0,19,1,1,SUS (público)
+A306138,1,1.0,18,1,1,SUS (público)
+A308814,1,3.0,32,1,1,SUS (público)
+A300099,1,6.0,22,1,1,Particular (sem convênio)
+A301167,1,0.0,59,0,1,SUS (público)
+A300600,1,0.0,10,1,1,SUS (público)
+A303335,1,0.0,68,1,1,SUS (público)
+A300307,1,11.0,26,1,1,Convênio Privado
+A309803,1,0.0,23,1,0,SUS (público)
+A305468,1,0.0,31,0,0,SUS (público)
+A308796,1,0.0,17,0,1,SUS (público)
+A300459,1,0.0,29,1,1,SUS (público)
+A305527,1,0.0,15,1,1,Convênio Privado
+A304645,1,0.0,22,1,1,SUS (público)
+A309480,1,0.0,28,1,1,SUS (público)
+A304428,1,0.0,29,0,1,SUS (público)
+A308287,1,2.0,35,1,1,SUS (público)
+A308129,1,3.0,15,1,1,Convênio Privado
+A306243,1,1.0,15,1,1,Convênio Público/Estatal
+A303475,1,0.0,53,1,1,SUS (público)
+A306218,1,8.0,11,1,1,SUS (público)
+A308723,1,5.0,46,1,1,Particular (sem convênio)
+A308605,1,4.0,18,1,1,SUS (público)
+A309437,1,2.0,13,1,0,Convênio Público/Estatal
+A304084,1,0.0,27,1,1,Convênio Privado
+A302701,1,0.0,17,1,1,Convênio Público/Estatal
+A307441,1,16.0,20,1,1,Convênio Privado
+A307067,1,0.0,19,1,1,SUS (público)
+A302051,1,4.0,25,1,1,Convênio Privado
+A301936,1,0.0,14,1,1,Convênio Privado
+A306730,1,4.0,26,1,1,SUS (público)
+A304503,0,,0,0,0,SUS (público)
+A301937,0,,0,0,0,Particular (sem convênio)
+A305508,1,0.0,22,1,1,Convênio Público/Estatal
+A308146,1,8.0,16,1,1,SUS (público)
+A306889,0,,0,0,0,Convênio Público/Estatal
+A305937,1,0.0,15,1,1,SUS (público)
+A300939,1,4.0,33,1,1,SUS (público)
+A307209,1,1.0,11,1,1,SUS (público)
+A306673,1,0.0,22,1,1,Particular (sem convênio)
+A308606,1,6.0,47,1,1,Convênio Privado
+A307370,1,3.0,19,1,1,Convênio Privado
+A308732,0,,0,0,0,SUS (público)
+A308266,1,0.0,17,1,1,Convênio Privado
+A304429,1,0.0,11,1,1,SUS (público)
+A307005,1,0.0,35,1,1,Convênio Público/Estatal
+A305262,1,1.0,19,1,1,Convênio Privado
+A300408,1,4.0,17,1,1,SUS (público)
+A304883,1,0.0,17,1,1,Convênio Privado
+A303618,1,2.0,20,1,1,SUS (público)
+A302661,1,9.0,14,1,1,Particular (sem convênio)
+A304053,1,0.0,18,1,1,Convênio Privado
+A307587,1,5.0,23,1,1,Convênio Privado
+A303568,1,0.0,23,1,1,SUS (público)
+A305506,0,,0,0,0,Convênio Privado
+A304427,1,3.0,20,1,1,Convênio Público/Estatal
+A301396,1,0.0,38,1,1,Convênio Privado
+A309928,1,8.0,15,1,1,SUS (público)
+A302282,0,,0,0,0,Convênio Privado
+A302666,1,0.0,12,1,1,Convênio Público/Estatal
+A304621,1,9.0,14,1,1,SUS (público)
+A303439,1,0.0,10,1,1,Convênio Privado
+A308032,1,0.0,50,1,1,SUS (público)
+A305881,1,8.0,22,1,1,Convênio Público/Estatal
+A302598,1,0.0,10,0,1,SUS (público)
+A305606,1,0.0,22,1,1,Particular (sem convênio)
+A304991,1,0.0,40,1,1,Convênio Público/Estatal
+A307400,1,0.0,23,1,1,Convênio Privado
+A303393,1,0.0,32,1,0,Particular (sem convênio)
+A307921,1,4.0,35,1,1,Convênio Privado
+A300032,1,0.0,12,1,1,SUS (público)
+A301620,1,3.0,16,1,1,Particular (sem convênio)
+A301562,1,0.0,23,1,0,Particular (sem convênio)
+A304956,1,0.0,50,1,1,Particular (sem convênio)
+A308755,1,0.0,45,1,1,SUS (público)
+A301583,1,5.0,11,1,1,SUS (público)
+A308067,1,0.0,53,1,1,Convênio Privado
+A308349,1,1.0,48,1,1,Convênio Privado
+A300763,1,0.0,21,1,1,Particular (sem convênio)
+A300484,1,0.0,11,1,1,SUS (público)
+A302620,1,4.0,13,1,0,SUS (público)
+A309230,1,0.0,21,1,0,Convênio Privado
+A302185,1,7.0,15,1,1,Convênio Privado
+A308581,1,5.0,51,1,1,SUS (público)
+A305753,1,0.0,22,0,1,Convênio Privado
+A309590,1,11.0,23,1,1,Particular (sem convênio)
+A308682,1,0.0,20,1,1,Particular (sem convênio)
+A300988,1,1.0,19,1,1,SUS (público)
+A300858,1,11.0,28,1,1,SUS (público)
+A308801,1,6.0,18,1,1,SUS (público)
+A304620,1,5.0,23,0,0,SUS (público)
+A304192,1,0.0,69,1,1,SUS (público)
+A306834,1,0.0,16,1,1,Particular (sem convênio)
+A304953,1,0.0,37,1,1,SUS (público)
+A309977,1,6.0,30,0,1,Convênio Público/Estatal
+A300394,1,0.0,45,1,1,SUS (público)
+A305921,1,3.0,24,1,1,SUS (público)
+A306097,1,6.0,42,1,1,SUS (público)
+A308361,1,7.0,14,1,1,Convênio Público/Estatal
+A307956,1,3.0,17,1,1,Particular (sem convênio)
+A300342,1,6.0,15,1,1,Particular (sem convênio)
+A302780,1,1.0,11,1,1,Particular (sem convênio)
+A307646,1,9.0,21,1,1,Convênio Privado
+A306233,1,1.0,15,1,1,SUS (público)
+A305525,1,0.0,22,1,1,SUS (público)
+A303804,1,0.0,12,1,1,Particular (sem convênio)
+A304507,1,2.0,20,1,0,Convênio Privado
+A306819,1,3.0,20,1,1,SUS (público)
+A309632,1,1.0,21,1,1,Convênio Público/Estatal
+A303312,1,0.0,30,1,1,Particular (sem convênio)
+A302624,1,3.0,34,1,1,Convênio Privado
+A301544,1,0.0,17,1,1,Particular (sem convênio)
+A308397,1,0.0,34,1,1,Convênio Privado
+A303476,1,0.0,26,1,1,Convênio Privado
+A307398,1,1.0,11,1,1,Convênio Privado
+A305830,1,0.0,34,1,1,SUS (público)
+A305123,1,7.0,22,0,1,Convênio Privado
+A303851,1,0.0,25,1,1,SUS (público)
+A305604,1,4.0,18,1,1,SUS (público)
+A304614,1,6.0,18,1,1,SUS (público)
+A300781,0,,0,0,0,Particular (sem convênio)
+A307262,1,1.0,11,1,1,SUS (público)
+A309513,1,6.0,17,1,1,Particular (sem convênio)
+A302992,1,0.0,14,1,0,Particular (sem convênio)
+A306057,1,5.0,16,0,1,Convênio Privado
+A309241,1,7.0,15,1,1,SUS (público)
+A303382,1,4.0,14,1,1,SUS (público)
+A302958,1,0.0,23,1,1,SUS (público)
+A303839,1,6.0,25,1,1,Convênio Privado
+A307432,0,,0,0,0,SUS (público)
+A308503,1,0.0,17,1,1,Convênio Privado
+A301358,1,3.0,19,1,1,SUS (público)
+A309929,1,0.0,34,1,1,SUS (público)
+A302539,1,5.0,20,1,1,Convênio Privado
+A306863,1,0.0,31,1,1,Convênio Privado
+A307784,1,4.0,30,0,1,Particular (sem convênio)
+A302488,1,3.0,27,1,1,SUS (público)
+A309674,1,0.0,11,1,1,SUS (público)
+A309601,0,,0,0,0,SUS (público)
+A308771,1,0.0,29,1,1,Particular (sem convênio)
+A303633,1,9.0,63,0,1,Convênio Privado
+A302320,1,0.0,33,1,1,Convênio Privado
+A306845,1,2.0,23,1,1,SUS (público)
+A300308,1,0.0,13,1,1,Convênio Público/Estatal
+A300921,1,0.0,34,0,1,Convênio Privado
+A305725,1,1.0,62,1,1,Convênio Público/Estatal
+A300659,1,9.0,47,0,1,SUS (público)
+A304862,1,0.0,13,1,1,SUS (público)
+A306491,1,0.0,15,1,1,SUS (público)
+A307886,0,,0,0,0,SUS (público)
+A302336,0,,0,0,0,SUS (público)
+A300028,1,9.0,32,1,1,Particular (sem convênio)
+A307129,1,0.0,15,1,1,SUS (público)
+A308115,1,2.0,22,1,1,SUS (público)
+A301297,1,0.0,16,1,1,Particular (sem convênio)
+A302854,1,5.0,13,1,1,SUS (público)
+A308497,1,0.0,22,0,1,Particular (sem convênio)
+A306446,1,0.0,13,1,1,SUS (público)
+A303862,1,7.0,16,1,1,Convênio Público/Estatal
+A308167,1,0.0,37,1,1,SUS (público)
+A302217,1,10.0,22,1,1,SUS (público)
+A306197,1,1.0,26,1,1,Convênio Privado
+A305414,1,0.0,20,1,1,SUS (público)
+A304900,1,12.0,14,1,1,SUS (público)
+A307252,1,0.0,66,1,1,Particular (sem convênio)
+A306913,1,7.0,31,1,1,SUS (público)
+A301990,1,0.0,28,1,1,Convênio Privado
+A305946,1,8.0,31,1,1,SUS (público)
+A304331,1,1.0,13,1,1,SUS (público)
+A303370,1,0.0,16,0,1,SUS (público)
+A304177,1,0.0,27,1,1,SUS (público)
+A302243,1,2.0,16,1,1,SUS (público)
+A302373,1,0.0,13,1,1,Particular (sem convênio)
+A303388,1,10.0,19,1,1,SUS (público)
+A303556,1,3.0,20,1,1,SUS (público)
+A309701,1,0.0,15,1,1,SUS (público)
+A301070,1,3.0,42,1,1,Particular (sem convênio)
+A301380,1,0.0,49,1,1,Convênio Privado
+A303597,1,0.0,28,1,1,Particular (sem convênio)
+A309397,1,0.0,14,1,1,SUS (público)
+A300597,1,0.0,31,1,1,SUS (público)
+A304963,1,0.0,14,1,0,Convênio Privado
+A301308,1,2.0,22,1,1,SUS (público)
+A303881,0,,0,0,0,SUS (público)
+A307909,1,1.0,23,1,1,SUS (público)
+A305655,1,0.0,10,1,1,Convênio Privado
+A300108,1,0.0,36,1,0,Convênio Público/Estatal
+A304364,1,5.0,14,1,1,SUS (público)
+A300891,1,9.0,68,1,1,SUS (público)
+A300552,1,10.0,30,1,1,SUS (público)
+A301085,1,3.0,22,1,1,Convênio Privado
+A308587,1,6.0,23,1,1,SUS (público)
+A303807,1,2.0,16,1,1,SUS (público)
+A303755,1,2.0,13,1,1,Convênio Público/Estatal
+A301404,0,,0,0,0,SUS (público)
+A303419,0,,0,0,0,Convênio Privado
+A303722,1,1.0,15,1,1,Particular (sem convênio)
+A303227,1,0.0,22,1,1,SUS (público)
+A302165,1,0.0,23,1,1,Convênio Privado
+A300834,1,3.0,23,1,1,Convênio Privado
+A307657,1,0.0,34,0,1,SUS (público)
+A308625,1,0.0,27,1,0,SUS (público)
+A304337,0,,0,0,0,Particular (sem convênio)
+A307670,1,1.0,12,1,1,Convênio Privado
+A303628,1,9.0,35,1,1,SUS (público)
+A301910,1,16.0,25,1,1,SUS (público)
+A308476,1,3.0,30,1,1,SUS (público)
+A301892,1,0.0,11,1,1,Particular (sem convênio)
+A304270,1,0.0,34,1,0,Particular (sem convênio)
+A304281,1,0.0,23,1,1,SUS (público)
+A304209,1,1.0,47,1,1,Convênio Privado
+A309219,1,4.0,18,1,1,SUS (público)
+A305228,1,0.0,20,1,1,SUS (público)
+A306022,1,5.0,14,1,1,SUS (público)
+A305601,1,2.0,28,0,0,SUS (público)
+A308608,1,1.0,19,1,1,SUS (público)
+A304904,1,0.0,14,1,1,Convênio Privado
+A304530,1,0.0,26,1,1,SUS (público)
+A301432,1,0.0,42,1,1,Convênio Privado
+A304640,1,0.0,14,1,1,SUS (público)
+A309591,1,2.0,11,1,1,SUS (público)
+A303798,1,0.0,22,1,1,Particular (sem convênio)
+A301262,1,1.0,20,1,1,SUS (público)
+A309511,1,0.0,17,1,1,SUS (público)
+A307689,1,0.0,40,1,1,Particular (sem convênio)
+A309979,1,6.0,12,1,1,SUS (público)
+A300136,1,0.0,17,1,1,Particular (sem convênio)
+A306753,1,1.0,43,1,1,Convênio Público/Estatal
+A303720,1,5.0,17,1,1,SUS (público)
+A300067,1,0.0,29,1,1,SUS (público)
+A306575,1,4.0,42,0,1,SUS (público)
+A302978,1,0.0,22,1,1,SUS (público)
+A300324,1,0.0,19,1,1,Convênio Privado
+A307542,1,5.0,11,1,1,SUS (público)
+A306367,1,4.0,34,1,1,Convênio Privado
+A306821,1,0.0,18,1,1,Convênio Privado
+A306611,1,0.0,15,1,1,SUS (público)
+A304520,1,0.0,30,1,1,SUS (público)
+A301104,1,7.0,16,1,1,SUS (público)
+A307827,1,10.0,13,1,1,SUS (público)
+A301956,1,0.0,15,1,1,SUS (público)
+A306974,1,1.0,14,1,1,SUS (público)
+A308315,1,4.0,21,1,0,SUS (público)
+A300526,1,2.0,14,1,1,Convênio Privado
+A304203,1,13.0,53,1,1,SUS (público)
+A303272,1,4.0,22,1,1,SUS (público)
+A301091,1,0.0,18,1,1,SUS (público)
+A302452,1,0.0,34,1,1,SUS (público)
+A300820,1,1.0,31,1,1,SUS (público)
+A303836,1,4.0,47,1,1,SUS (público)
+A302293,1,8.0,20,1,1,SUS (público)
+A302206,1,0.0,11,1,1,SUS (público)
+A306480,0,,0,0,0,Particular (sem convênio)
+A307105,1,0.0,14,1,1,SUS (público)
+A301117,1,6.0,15,1,1,SUS (público)
+A302545,1,2.0,31,1,0,SUS (público)
+A306751,1,8.0,15,1,1,SUS (público)
+A308105,0,,0,0,0,SUS (público)
+A304362,1,0.0,23,1,1,Convênio Privado
+A301822,1,2.0,20,1,1,SUS (público)
+A309905,1,0.0,19,0,1,SUS (público)
+A309998,1,0.0,67,1,1,Convênio Privado
+A302899,1,2.0,23,1,1,SUS (público)
+A309375,1,5.0,53,1,1,Convênio Privado
+A300676,1,0.0,17,1,1,Convênio Privado
+A302653,1,2.0,18,1,1,Particular (sem convênio)
+A309538,1,6.0,13,1,1,SUS (público)
+A307518,1,3.0,13,0,1,Convênio Privado
+A304494,1,0.0,16,1,1,SUS (público)
+A305008,1,0.0,50,1,1,SUS (público)
+A300881,1,0.0,28,1,0,Particular (sem convênio)
+A306896,1,0.0,16,1,1,Convênio Privado
+A308464,1,0.0,53,1,1,SUS (público)
+A309810,1,4.0,31,1,1,SUS (público)
+A300220,1,1.0,61,0,1,SUS (público)
+A309067,0,,0,0,0,Convênio Privado
+A300736,1,0.0,35,1,1,Particular (sem convênio)
+A300082,1,6.0,33,0,1,SUS (público)
+A305385,1,3.0,14,1,1,Particular (sem convênio)
+A300783,1,2.0,13,1,0,SUS (público)
+A302430,1,2.0,17,1,1,Particular (sem convênio)
+A300045,1,6.0,13,1,1,SUS (público)
+A302573,1,0.0,52,0,1,SUS (público)
+A302979,1,3.0,11,0,1,SUS (público)
+A302911,1,6.0,21,1,1,SUS (público)
+A303353,1,0.0,23,1,1,SUS (público)
+A304954,1,0.0,11,1,1,SUS (público)
+A302257,1,2.0,21,1,1,Convênio Privado
+A304522,1,2.0,42,1,1,SUS (público)
+A306785,1,5.0,15,0,1,Convênio Privado
+A306731,1,4.0,15,1,1,Particular (sem convênio)
+A301172,1,0.0,16,1,1,SUS (público)
+A307935,1,4.0,27,1,0,SUS (público)
+A301840,1,0.0,15,1,1,SUS (público)
+A306267,1,4.0,21,0,1,SUS (público)
+A302445,0,,0,0,0,SUS (público)
+A307445,1,3.0,44,1,1,Particular (sem convênio)
+A301806,0,,0,0,0,SUS (público)
+A304809,1,5.0,57,1,1,Convênio Privado
+A304908,1,8.0,41,1,1,Convênio Privado
+A309519,1,0.0,13,1,1,Particular (sem convênio)
+A305868,1,0.0,22,1,1,SUS (público)
+A307273,1,0.0,16,0,1,SUS (público)
+A301024,1,6.0,18,1,0,Particular (sem convênio)
+A301961,1,0.0,15,1,1,SUS (público)
+A305540,1,6.0,12,1,1,Particular (sem convênio)
+A307419,1,3.0,18,1,1,SUS (público)
+A301646,1,9.0,22,1,1,SUS (público)
+A303249,1,0.0,13,1,1,Convênio Privado
+A307733,0,,0,0,0,Convênio Público/Estatal
+A300804,1,2.0,23,1,0,SUS (público)
+A302489,1,0.0,14,0,1,Particular (sem convênio)
+A309325,1,0.0,26,1,1,Convênio Privado
+A308858,1,0.0,22,1,1,Convênio Privado
+A308551,1,6.0,21,0,1,SUS (público)
+A305000,1,0.0,51,1,1,Particular (sem convênio)
+A308410,1,4.0,18,1,1,SUS (público)
+A309518,1,0.0,21,1,1,Particular (sem convênio)
+A308651,0,,0,0,0,Convênio Privado
+A303840,1,0.0,19,1,1,SUS (público)
+A306402,0,,0,0,0,SUS (público)
+A309321,1,0.0,14,1,1,SUS (público)
+A304951,1,0.0,14,1,1,SUS (público)
+A300006,1,9.0,15,0,0,SUS (público)
+A306355,1,0.0,33,1,1,SUS (público)
+A308072,1,0.0,11,1,1,SUS (público)
+A306584,1,0.0,16,1,1,SUS (público)
+A303979,0,,0,0,0,Convênio Privado
+A301947,1,1.0,14,1,1,Convênio Privado
+A304856,1,4.0,31,1,1,SUS (público)
+A300662,1,7.0,10,1,1,Convênio Privado
+A307381,1,0.0,22,1,1,Particular (sem convênio)
+A302619,0,,0,0,0,Particular (sem convênio)
+A300159,1,4.0,22,1,1,SUS (público)
+A302093,1,4.0,43,1,1,SUS (público)
+A300098,1,6.0,20,0,1,SUS (público)
+A300929,1,0.0,16,1,1,SUS (público)
+A305793,1,8.0,32,1,1,SUS (público)
+A304579,1,2.0,17,1,1,SUS (público)
+A308145,1,0.0,23,1,1,SUS (público)
+A308859,1,6.0,15,0,1,SUS (público)
+A304388,1,0.0,24,1,1,SUS (público)
+A307659,1,5.0,14,1,1,SUS (público)
+A302900,1,2.0,50,1,1,SUS (público)
+A304950,1,2.0,52,1,0,SUS (público)
+A306891,0,,0,0,0,SUS (público)
+A303770,1,1.0,12,1,1,SUS (público)
+A307734,1,0.0,10,1,1,Particular (sem convênio)
+A309222,0,,0,0,0,Convênio Privado
+A307841,1,0.0,23,0,1,Particular (sem convênio)
+A308564,1,7.0,17,1,1,Convênio Privado
+A306301,1,0.0,11,1,1,SUS (público)
+A302140,1,2.0,16,1,1,SUS (público)
+A303077,1,13.0,18,1,1,SUS (público)
+A305151,1,3.0,29,1,1,SUS (público)
+A304264,1,5.0,48,1,1,SUS (público)
+A305392,1,0.0,15,1,1,SUS (público)
+A305660,1,6.0,18,1,1,Convênio Privado
+A302209,1,6.0,23,1,1,SUS (público)
+A300582,1,2.0,17,1,1,SUS (público)
+A302857,1,0.0,16,1,1,SUS (público)
+A301898,1,5.0,12,1,1,Particular (sem convênio)
+A309464,0,,0,0,0,Particular (sem convênio)
+A307301,1,1.0,18,1,1,SUS (público)
+A301233,0,,0,0,0,SUS (público)
+A300147,1,1.0,32,1,1,SUS (público)
+A305112,1,0.0,34,1,1,SUS (público)
+A303472,1,10.0,47,1,1,Convênio Privado
+A307402,1,0.0,35,1,1,SUS (público)
+A302739,1,6.0,20,1,1,Convênio Privado
+A307682,1,1.0,18,1,1,SUS (público)
+A300337,1,0.0,10,1,1,Convênio Público/Estatal
+A301038,1,11.0,24,1,1,Particular (sem convênio)
+A306990,0,,0,0,0,SUS (público)
+A306128,1,0.0,23,1,1,Convênio Público/Estatal
+A302385,1,2.0,22,1,0,Convênio Público/Estatal
+A308870,1,3.0,35,1,1,Convênio Privado
+A300259,1,0.0,47,1,1,Convênio Privado
+A304267,0,,0,0,0,SUS (público)
+A303931,1,0.0,17,1,1,SUS (público)
+A307501,1,0.0,22,1,0,Convênio Privado
+A301273,1,6.0,33,1,1,Convênio Privado
+A304649,1,0.0,10,1,1,Convênio Privado
+A306399,1,0.0,14,1,1,Particular (sem convênio)
+A307707,1,6.0,24,1,1,SUS (público)
+A309932,1,0.0,51,1,1,SUS (público)
+A302263,1,1.0,33,1,1,Convênio Privado
+A307923,1,3.0,32,1,1,SUS (público)
+A306593,1,4.0,11,1,0,Particular (sem convênio)
+A307593,1,0.0,27,1,1,Convênio Privado
+A308374,1,2.0,23,1,1,Particular (sem convênio)
+A309236,1,5.0,28,1,1,Convênio Privado
+A306721,1,0.0,46,1,1,SUS (público)
+A303733,1,6.0,19,1,1,SUS (público)
+A305360,1,10.0,13,1,1,SUS (público)
+A300288,1,4.0,38,1,1,Convênio Privado
+A305647,1,0.0,17,1,1,SUS (público)
+A302414,1,5.0,27,0,1,Convênio Público/Estatal
+A306382,1,2.0,14,1,1,SUS (público)
+A304758,1,7.0,15,1,1,SUS (público)
+A309042,1,0.0,24,1,1,Convênio Público/Estatal
+A302652,1,8.0,14,1,1,Convênio Privado
+A300040,1,11.0,28,1,1,SUS (público)
+A305738,1,1.0,14,1,1,Convênio Privado
+A308804,1,0.0,64,1,1,SUS (público)
+A304266,1,10.0,17,1,1,SUS (público)
+A303065,1,3.0,23,1,1,SUS (público)
+A305799,1,5.0,14,0,1,SUS (público)
+A306083,1,2.0,58,1,1,Convênio Privado
+A307840,1,0.0,11,1,1,Particular (sem convênio)
+A302314,1,11.0,16,1,1,Convênio Privado
+A302078,1,11.0,12,1,1,Particular (sem convênio)
+A306248,1,9.0,29,1,1,SUS (público)
+A304137,1,0.0,14,1,1,SUS (público)
+A306344,0,,0,0,0,SUS (público)
+A300895,1,0.0,20,1,0,Convênio Privado
+A300961,1,0.0,37,1,1,SUS (público)
+A303028,1,0.0,15,1,1,Particular (sem convênio)
+A304894,1,3.0,22,1,1,Convênio Privado
+A309139,1,7.0,22,1,1,Particular (sem convênio)
+A304781,1,8.0,21,1,1,SUS (público)
+A309729,1,0.0,16,1,0,SUS (público)
+A306208,1,8.0,24,1,1,Convênio Privado
+A300428,1,9.0,18,1,1,Convênio Privado
+A301260,1,1.0,28,1,1,SUS (público)
+A302640,1,0.0,31,1,0,Convênio Privado
+A303358,1,0.0,11,1,1,Convênio Privado
+A308836,1,0.0,22,1,1,SUS (público)
+A309475,1,0.0,70,1,1,SUS (público)
+A304532,1,4.0,22,1,1,Particular (sem convênio)
+A307477,1,2.0,23,1,1,Convênio Privado
+A306070,1,0.0,19,1,1,SUS (público)
+A303980,1,0.0,61,1,1,Particular (sem convênio)
+A307838,1,0.0,25,1,1,Convênio Privado
+A303192,1,0.0,17,1,1,Convênio Privado
+A303418,1,0.0,15,0,1,SUS (público)
+A306920,1,3.0,15,0,1,Particular (sem convênio)
+A306815,1,0.0,49,1,1,SUS (público)
+A307526,1,0.0,35,1,1,SUS (público)
+A302646,1,3.0,21,0,1,SUS (público)
+A300695,1,0.0,24,0,1,SUS (público)
+A301925,1,0.0,29,1,1,SUS (público)
+A301537,1,0.0,20,1,1,SUS (público)
+A300575,1,0.0,50,0,1,Convênio Público/Estatal
+A305044,1,6.0,51,1,1,Convênio Privado
+A307161,1,0.0,19,0,1,Convênio Privado
+A304591,1,0.0,13,1,1,SUS (público)
+A303835,1,0.0,17,1,1,SUS (público)
+A305328,1,1.0,31,1,1,SUS (público)
+A309937,1,0.0,16,1,1,Convênio Privado
+A302028,1,0.0,19,1,1,Convênio Privado
+A302883,1,4.0,11,1,1,SUS (público)
+A300616,1,4.0,21,1,1,Convênio Privado
+A306855,1,2.0,21,1,1,Particular (sem convênio)
+A303505,1,1.0,44,1,1,SUS (público)
+A302941,1,0.0,34,1,0,Convênio Privado
+A303017,1,0.0,16,1,1,Particular (sem convênio)
+A305756,1,3.0,10,1,1,SUS (público)
+A306999,1,0.0,14,1,0,SUS (público)
+A307172,1,0.0,22,1,1,Particular (sem convênio)
+A304141,1,0.0,15,0,1,SUS (público)
+A306912,1,0.0,16,0,1,Convênio Privado
+A305930,1,0.0,23,0,1,SUS (público)
+A304966,1,5.0,32,1,1,Convênio Privado
+A301540,1,1.0,19,1,1,SUS (público)
+A307530,1,0.0,35,1,1,SUS (público)
+A300954,1,0.0,44,1,1,SUS (público)
+A309000,1,0.0,33,1,1,SUS (público)
+A302711,1,0.0,18,1,1,SUS (público)
+A300913,1,3.0,11,1,1,SUS (público)
+A306115,1,0.0,21,1,1,SUS (público)
+A300964,1,0.0,20,1,1,SUS (público)
+A301073,0,,0,0,0,Convênio Privado
+A302793,1,3.0,11,1,0,SUS (público)
+A309220,1,0.0,18,1,1,SUS (público)
+A300209,1,5.0,27,0,1,Convênio Privado
+A301288,1,9.0,18,1,1,SUS (público)
+A302397,1,0.0,15,1,0,SUS (público)
+A306120,1,1.0,21,1,1,Convênio Privado
+A306214,1,0.0,15,1,1,SUS (público)
+A308364,1,0.0,29,1,1,Convênio Privado
+A305961,1,0.0,20,1,1,SUS (público)
+A304322,1,0.0,36,1,1,SUS (público)
+A302720,1,9.0,14,1,0,SUS (público)
+A302237,1,6.0,13,1,1,SUS (público)
+A309075,1,0.0,21,1,1,SUS (público)
+A305718,1,3.0,58,1,1,SUS (público)
+A303990,1,0.0,18,1,1,SUS (público)
+A301005,0,,0,0,0,SUS (público)
+A301600,1,6.0,19,1,1,Convênio Privado
+A309202,1,6.0,13,1,1,SUS (público)
+A300437,1,1.0,23,1,1,Convênio Público/Estatal
+A300215,1,4.0,11,1,1,SUS (público)
+A301589,1,4.0,64,0,1,SUS (público)
+A309377,1,4.0,33,1,1,Particular (sem convênio)
+A307851,1,2.0,51,1,1,SUS (público)
+A309086,1,10.0,26,1,1,SUS (público)
+A301462,1,5.0,16,1,1,Convênio Público/Estatal
+A304668,1,3.0,18,1,1,SUS (público)
+A305755,1,0.0,11,1,1,SUS (público)
+A303824,1,2.0,34,1,1,SUS (público)
+A306368,1,0.0,11,1,1,Particular (sem convênio)
+A305197,1,3.0,50,1,1,SUS (público)
+A300079,1,5.0,14,1,1,SUS (público)
+A306204,1,0.0,42,1,1,SUS (público)
+A303897,1,0.0,33,1,1,SUS (público)
+A307825,1,1.0,26,1,1,SUS (público)
+A309981,1,5.0,14,1,1,Particular (sem convênio)
+A306899,0,,0,0,0,Particular (sem convênio)
+A304178,1,7.0,35,1,1,Convênio Público/Estatal
+A306345,1,0.0,30,1,1,Convênio Público/Estatal
+A301300,1,0.0,55,1,1,Particular (sem convênio)
+A304738,1,0.0,21,1,1,SUS (público)
+A306411,1,0.0,29,1,1,Convênio Privado
+A304511,1,0.0,34,1,1,Convênio Privado
+A300509,1,6.0,55,1,1,Convênio Privado
+A304869,1,4.0,14,1,1,SUS (público)
+A306646,1,2.0,68,1,1,Convênio Privado
+A301011,1,9.0,28,0,1,SUS (público)
+A302039,1,0.0,16,1,1,SUS (público)
+A306195,1,6.0,14,0,1,Particular (sem convênio)
+A304613,1,6.0,49,1,1,Convênio Público/Estatal
+A302820,1,3.0,15,1,1,SUS (público)
+A309734,1,5.0,22,1,1,SUS (público)
+A300146,1,0.0,21,0,1,SUS (público)
+A300778,1,0.0,52,1,0,SUS (público)
+A309229,0,,0,0,0,SUS (público)
+A308928,1,1.0,17,1,0,SUS (público)
+A301522,1,0.0,32,1,1,SUS (público)
+A309356,1,0.0,14,1,1,Convênio Privado
+A301183,1,0.0,39,1,1,SUS (público)
+A309101,1,3.0,37,1,1,Particular (sem convênio)
+A304080,1,0.0,31,1,1,SUS (público)
+A306916,1,8.0,25,1,1,Convênio Privado
+A301930,1,0.0,52,1,1,SUS (público)
+A307543,1,10.0,21,1,1,Convênio Privado
+A309620,1,2.0,31,1,1,Convênio Privado
+A306454,1,2.0,41,1,1,SUS (público)
+A307473,1,9.0,16,1,1,Convênio Privado
+A308062,1,11.0,27,1,1,SUS (público)
+A301723,1,0.0,54,1,1,SUS (público)
+A308356,0,,0,0,0,SUS (público)
+A300923,1,2.0,41,1,1,Convênio Público/Estatal
+A305076,1,0.0,56,1,1,Convênio Privado
+A308135,1,1.0,21,1,1,SUS (público)
+A300946,1,13.0,19,1,1,Convênio Público/Estatal
+A300725,1,0.0,21,1,1,Convênio Privado
+A300391,1,0.0,13,1,0,Particular (sem convênio)
+A306303,1,0.0,14,1,1,SUS (público)
+A305330,1,0.0,21,1,1,Convênio Privado
+A301122,1,0.0,22,1,1,SUS (público)
+A307014,1,8.0,26,1,1,Convênio Privado
+A308806,1,0.0,51,1,1,SUS (público)
+A307160,1,0.0,22,1,1,Convênio Privado
+A301163,1,2.0,15,0,1,Convênio Privado
+A308029,1,3.0,16,0,1,SUS (público)
+A304186,1,1.0,12,1,1,Convênio Privado
+A304631,1,5.0,17,1,1,Convênio Público/Estatal
+A300911,1,0.0,38,1,1,Particular (sem convênio)
+A303796,1,5.0,12,1,1,SUS (público)
+A300457,1,0.0,33,1,1,Particular (sem convênio)
+A301060,1,3.0,20,1,1,SUS (público)
+A300728,1,0.0,24,1,1,Convênio Privado
+A304247,1,3.0,44,1,1,SUS (público)
+A302567,1,0.0,34,1,1,SUS (público)
+A301608,1,15.0,14,1,1,SUS (público)
+A306292,1,10.0,33,1,1,Particular (sem convênio)
+A304320,1,0.0,12,1,1,SUS (público)
+A301735,1,0.0,21,1,1,SUS (público)
+A309868,1,0.0,70,1,1,Convênio Privado
+A309954,1,0.0,50,1,1,SUS (público)
+A306001,1,2.0,45,1,1,SUS (público)
+A309489,1,4.0,35,1,1,SUS (público)
+A308053,1,2.0,17,0,1,SUS (público)
+A306253,1,0.0,46,1,0,Convênio Privado
+A306160,1,0.0,23,1,1,Convênio Privado
+A300639,1,0.0,23,1,1,SUS (público)
+A303289,1,9.0,15,1,1,Particular (sem convênio)
+A303688,1,4.0,70,1,1,SUS (público)
+A302133,1,0.0,33,1,1,SUS (público)
+A304038,1,0.0,47,1,1,SUS (público)
+A301804,1,0.0,70,1,1,Convênio Público/Estatal
+A306295,1,12.0,32,1,1,SUS (público)
+A304477,1,0.0,24,1,1,SUS (público)
+A308515,1,0.0,17,1,0,Particular (sem convênio)
+A300689,1,0.0,16,1,1,SUS (público)
+A307223,1,2.0,15,1,0,SUS (público)
+A307107,1,0.0,15,1,1,SUS (público)
+A301740,1,4.0,48,1,1,SUS (público)
+A308430,1,1.0,22,1,1,Particular (sem convênio)
+A305340,1,0.0,19,0,1,SUS (público)
+A303714,1,0.0,31,1,1,SUS (público)
+A304582,1,1.0,14,1,1,Convênio Privado
+A309859,1,0.0,15,1,1,SUS (público)
+A302989,1,1.0,11,1,1,Convênio Privado
+A303735,0,,0,0,0,SUS (público)
+A305245,1,2.0,29,1,1,SUS (público)
+A301797,1,1.0,16,1,1,SUS (público)
+A302934,1,0.0,29,1,0,SUS (público)
+A307312,1,8.0,13,1,1,SUS (público)
+A303773,0,,0,0,0,SUS (público)
+A304761,1,0.0,15,1,1,Particular (sem convênio)
+A300851,1,12.0,12,1,1,SUS (público)
+A303376,0,,0,0,0,SUS (público)
+A301114,1,0.0,16,1,0,SUS (público)
+A301332,1,5.0,12,1,1,SUS (público)
+A301812,1,3.0,13,1,1,Convênio Privado
+A307714,1,2.0,17,0,1,Particular (sem convênio)
+A305356,1,7.0,17,0,1,SUS (público)
+A308876,1,4.0,15,1,0,Particular (sem convênio)
+A309056,1,0.0,12,1,1,Convênio Privado
+A309113,1,8.0,19,1,0,SUS (público)
+A302617,1,11.0,13,1,0,Particular (sem convênio)
+A300161,1,0.0,35,1,1,SUS (público)
+A305864,1,9.0,32,1,1,Convênio Privado
+A309470,1,0.0,51,1,1,SUS (público)
+A301159,1,2.0,67,0,1,Convênio Privado
+A301198,1,11.0,18,1,1,SUS (público)
+A303585,1,0.0,10,1,1,SUS (público)
+A307578,1,1.0,42,1,1,Convênio Privado
+A309149,1,2.0,35,1,1,SUS (público)
+A307102,0,,0,0,0,Convênio Público/Estatal
+A309240,0,,0,0,0,SUS (público)
+A302262,1,2.0,16,1,1,Particular (sem convênio)
+A306672,1,12.0,15,0,1,SUS (público)
+A300007,1,6.0,21,1,1,Particular (sem convênio)
+A300536,1,0.0,16,1,1,SUS (público)
+A301470,1,0.0,15,0,1,Convênio Público/Estatal
+A308261,1,0.0,38,1,1,Convênio Privado
+A309194,1,8.0,21,0,0,SUS (público)
+A309098,1,14.0,17,1,1,Convênio Privado
+A309867,1,0.0,19,1,1,Convênio Público/Estatal
+A308793,1,0.0,49,0,1,SUS (público)
+A300481,1,2.0,28,1,1,SUS (público)
+A302151,1,0.0,60,1,1,Convênio Privado
+A306637,1,6.0,10,1,0,Convênio Privado
+A304395,1,4.0,16,1,1,SUS (público)
+A309811,1,0.0,27,0,1,SUS (público)
+A305794,1,4.0,13,1,1,Convênio Privado
+A300627,1,0.0,48,1,1,SUS (público)
+A306592,1,2.0,18,1,1,Convênio Privado
+A306412,0,,0,0,0,SUS (público)
+A308768,1,3.0,25,1,1,Convênio Privado
+A308892,1,0.0,12,1,1,SUS (público)
+A308633,1,0.0,13,1,1,Convênio Privado
+A307534,1,0.0,31,1,1,Convênio Privado
+A309567,1,12.0,32,1,1,SUS (público)
+A303909,1,0.0,12,1,0,SUS (público)
+A306760,1,7.0,16,1,1,Particular (sem convênio)
+A302621,1,6.0,20,1,1,SUS (público)
+A301756,1,0.0,33,1,1,Convênio Público/Estatal
+A304732,1,2.0,27,1,1,Particular (sem convênio)
+A309367,0,,0,0,0,SUS (público)
+A306476,1,3.0,34,1,1,Convênio Privado
+A308586,1,5.0,11,1,1,Particular (sem convênio)
+A306675,1,0.0,16,1,1,Particular (sem convênio)
+A309371,1,2.0,13,1,1,Particular (sem convênio)
+A300644,0,,0,0,0,SUS (público)
+A308091,1,0.0,14,1,1,SUS (público)
+A308422,1,4.0,17,1,1,Convênio Público/Estatal
+A303497,1,2.0,31,1,1,SUS (público)
+A302908,1,0.0,60,1,1,Convênio Privado
+A305709,1,3.0,29,1,1,SUS (público)
+A308169,0,,0,0,0,Particular (sem convênio)
+A302247,1,5.0,16,1,1,Particular (sem convênio)
+A302061,1,5.0,17,1,1,Convênio Público/Estatal
+A307065,1,6.0,16,1,1,SUS (público)
+A303625,1,4.0,22,1,1,Convênio Privado
+A305684,1,0.0,16,1,1,SUS (público)
+A301234,1,9.0,23,1,1,Particular (sem convênio)
+A304586,1,0.0,16,1,1,Convênio Privado
+A300420,1,9.0,20,1,0,SUS (público)
+A307103,1,1.0,20,1,1,SUS (público)
+A306495,1,0.0,17,1,1,SUS (público)
+A301424,1,0.0,40,1,1,Convênio Privado
+A303342,1,0.0,15,1,1,SUS (público)
+A307298,1,4.0,24,1,1,Convênio Privado
+A300976,1,2.0,18,1,1,Convênio Privado
+A300106,1,1.0,21,1,1,SUS (público)
+A303389,1,0.0,50,1,1,SUS (público)
+A304843,1,8.0,29,1,1,Convênio Privado
+A301984,1,3.0,12,1,1,Convênio Privado
+A307338,1,0.0,12,1,1,Convênio Privado
+A307645,1,2.0,36,1,1,Convênio Privado
+A303461,1,1.0,15,1,1,SUS (público)
+A301293,1,0.0,19,1,1,SUS (público)
+A301078,0,,0,0,0,SUS (público)
+A304329,1,12.0,40,1,1,SUS (público)
+A302901,0,,0,0,0,SUS (público)
+A309643,1,1.0,15,1,1,SUS (público)
+A307018,1,0.0,23,1,1,Convênio Privado
+A309722,1,0.0,22,1,1,Convênio Privado
+A308555,1,0.0,15,0,1,SUS (público)
+A305594,1,11.0,16,1,1,Convênio Privado
+A305257,1,5.0,11,1,1,Convênio Privado
+A308140,1,9.0,28,1,1,SUS (público)
+A302048,1,6.0,37,1,1,SUS (público)
+A302296,1,1.0,15,1,1,SUS (público)
+A304227,1,0.0,16,1,1,Particular (sem convênio)
+A305938,0,,0,0,0,Convênio Privado
+A302894,1,4.0,42,0,1,Particular (sem convênio)
+A305345,1,0.0,16,1,1,SUS (público)
+A307315,1,2.0,34,1,1,SUS (público)
+A303095,0,,0,0,0,Particular (sem convênio)
+A309807,1,4.0,51,0,1,SUS (público)
+A303668,1,1.0,15,1,1,SUS (público)
+A305816,1,3.0,21,1,1,SUS (público)
+A306015,1,0.0,16,1,1,Convênio Público/Estatal
+A301917,1,5.0,21,1,0,Convênio Público/Estatal
+A300138,1,11.0,24,1,1,SUS (público)
+A300867,1,0.0,12,1,1,SUS (público)
+A308119,1,0.0,13,1,1,SUS (público)
+A307564,1,0.0,35,0,0,Convênio Público/Estatal
+A306670,1,0.0,35,0,1,SUS (público)
+A306249,1,3.0,27,1,1,SUS (público)
+A301879,1,1.0,14,1,1,SUS (público)
+A308994,1,0.0,13,0,1,Convênio Privado
+A303570,1,0.0,23,1,1,SUS (público)
+A307910,1,2.0,16,1,1,SUS (público)
+A302571,1,0.0,23,1,1,SUS (público)
+A306020,1,0.0,32,1,1,SUS (público)
+A300822,1,0.0,52,1,1,SUS (público)
+A307489,1,2.0,15,1,1,SUS (público)
+A304864,0,,0,0,0,SUS (público)
+A304052,1,10.0,11,1,1,SUS (público)
+A307429,1,0.0,15,0,1,SUS (público)
+A302213,1,0.0,31,1,1,Convênio Privado
+A306161,1,3.0,23,1,1,Particular (sem convênio)
+A300887,1,0.0,14,1,1,SUS (público)
+A302615,1,1.0,16,1,1,SUS (público)
+A303903,1,0.0,50,0,1,SUS (público)
+A303868,1,0.0,48,1,1,SUS (público)
+A300089,1,0.0,21,1,1,Convênio Privado
+A302670,1,7.0,16,0,1,Particular (sem convênio)
+A301555,1,6.0,14,1,1,SUS (público)
+A308071,1,0.0,13,0,1,SUS (público)
+A308808,1,0.0,17,1,1,SUS (público)
+A303374,1,0.0,18,1,1,SUS (público)
+A300181,0,,0,0,0,SUS (público)
+A300385,1,5.0,23,1,1,Particular (sem convênio)
+A301141,1,4.0,29,1,1,Convênio Público/Estatal
+A304592,1,6.0,25,1,1,SUS (público)
+A305914,1,0.0,22,1,1,Convênio Privado
+A308700,1,3.0,60,1,1,Particular (sem convênio)
+A309402,1,1.0,15,1,1,Particular (sem convênio)
+A309583,1,7.0,17,1,1,SUS (público)
+A309088,1,0.0,12,1,1,SUS (público)
+A309173,1,6.0,22,1,1,Convênio Privado
+A308176,1,0.0,17,0,1,SUS (público)
+A309922,1,3.0,22,1,1,SUS (público)
+A308028,1,4.0,33,0,1,SUS (público)
+A305042,1,0.0,17,1,1,SUS (público)
+A309355,1,0.0,23,1,1,SUS (público)
+A307546,1,1.0,15,1,1,Convênio Privado
+A302618,0,,0,0,0,Convênio Público/Estatal
+A308257,1,1.0,16,1,1,Particular (sem convênio)
+A300922,1,0.0,23,1,1,SUS (público)
+A307715,1,0.0,17,1,1,Convênio Privado
+A303508,1,0.0,25,1,1,SUS (público)
+A301186,1,3.0,28,1,1,SUS (público)
+A307688,1,0.0,17,0,1,Convênio Privado
+A302372,1,3.0,15,1,1,SUS (público)
+A305831,1,8.0,16,1,0,SUS (público)
+A307624,1,0.0,12,1,1,SUS (público)
+A305075,1,0.0,21,1,1,SUS (público)
+A309900,1,2.0,23,1,1,SUS (público)
+A306985,1,2.0,14,1,1,SUS (público)
+A302458,1,0.0,16,0,1,SUS (público)
+A309886,1,3.0,35,0,1,Convênio Privado
+A306390,1,4.0,46,0,1,SUS (público)
+A302774,1,0.0,14,1,1,Particular (sem convênio)
+A309323,1,4.0,17,1,1,SUS (público)
+A301206,1,0.0,16,1,1,SUS (público)
+A307053,1,1.0,19,1,1,SUS (público)
+A304274,1,8.0,41,1,1,SUS (público)
+A303631,1,4.0,33,1,1,SUS (público)
+A309871,1,3.0,18,1,1,Particular (sem convênio)
+A307076,1,0.0,11,1,1,SUS (público)
+A308976,1,2.0,15,1,1,SUS (público)
+A304517,1,1.0,26,1,1,SUS (público)
+A308720,1,5.0,21,1,1,Convênio Privado
+A302519,0,,0,0,0,SUS (público)
+A309074,1,3.0,10,1,1,Convênio Privado
+A306683,1,5.0,43,1,1,Convênio Privado
+A300335,1,0.0,26,1,1,Convênio Privado
+A300650,1,0.0,28,1,1,SUS (público)
+A303085,1,2.0,42,1,1,SUS (público)
+A302054,1,9.0,34,1,1,SUS (público)
+A308412,1,0.0,18,1,1,Convênio Privado
+A307299,1,7.0,29,1,1,SUS (público)
+A304396,0,,0,0,0,SUS (público)
+A302606,1,0.0,34,1,1,Convênio Privado
+A304197,1,0.0,33,1,1,SUS (público)
+A300221,1,7.0,45,1,1,Particular (sem convênio)
+A304150,1,0.0,16,1,1,Particular (sem convênio)
+A306133,1,0.0,26,1,1,SUS (público)
+A307747,1,1.0,31,1,1,Convênio Privado
+A301140,1,0.0,22,0,1,SUS (público)
+A302481,1,0.0,29,1,1,Convênio Privado
+A305559,1,0.0,18,1,1,Convênio Privado
+A304688,1,2.0,16,1,1,Particular (sem convênio)
+A306534,1,0.0,22,1,1,Convênio Privado
+A300444,1,1.0,22,1,1,Convênio Privado
+A302245,1,0.0,14,1,1,Convênio Privado
+A304557,1,0.0,11,1,1,Particular (sem convênio)
+A307490,1,1.0,23,1,1,SUS (público)
+A302400,0,,0,0,0,SUS (público)
+A300623,1,0.0,21,1,1,Particular (sem convênio)
+A300605,1,2.0,11,1,1,Particular (sem convênio)
+A307626,1,0.0,11,1,1,SUS (público)
+A305912,1,0.0,17,1,1,Particular (sem convênio)
+A308839,1,12.0,31,1,1,SUS (público)
+A307579,1,0.0,20,1,1,SUS (público)
+A306802,1,0.0,25,1,1,SUS (público)
+A300311,1,3.0,20,1,1,Convênio Privado
+A302158,1,11.0,17,1,1,SUS (público)
+A305671,0,,0,0,0,Convênio Privado
+A300386,1,0.0,68,1,1,Particular (sem convênio)
+A304730,1,7.0,21,1,1,SUS (público)
+A308899,1,0.0,14,1,1,SUS (público)
+A302999,1,0.0,26,1,1,SUS (público)
+A304290,1,0.0,22,1,1,Convênio Privado
+A306410,1,3.0,45,1,1,Convênio Privado
+A306126,1,14.0,35,1,1,SUS (público)
+A300613,1,5.0,62,1,1,SUS (público)
+A307345,1,0.0,33,1,1,Convênio Privado
+A305376,1,2.0,50,1,1,Particular (sem convênio)
+A305534,1,3.0,42,1,0,Particular (sem convênio)
+A302787,1,0.0,15,1,1,Particular (sem convênio)
+A300211,1,0.0,37,1,1,SUS (público)
+A303344,1,0.0,17,1,1,Particular (sem convênio)
+A302311,1,0.0,25,1,1,Convênio Público/Estatal
+A309296,1,2.0,30,1,1,SUS (público)
+A302095,1,0.0,14,0,1,SUS (público)
+A307833,1,3.0,31,0,1,SUS (público)
+A301433,1,2.0,15,1,1,SUS (público)
+A301508,1,6.0,15,1,1,SUS (público)
+A300057,1,1.0,20,1,1,SUS (público)
+A307022,1,5.0,14,1,1,SUS (público)
+A306943,0,,0,0,0,SUS (público)
+A300293,1,0.0,18,1,1,Particular (sem convênio)
+A306873,1,1.0,10,1,1,Convênio Privado
+A304120,1,0.0,19,1,1,SUS (público)
+A300197,1,0.0,30,1,1,Convênio Privado
+A309382,1,4.0,13,1,1,Convênio Privado
+A305398,1,0.0,59,1,1,Particular (sem convênio)
+A300741,1,0.0,33,1,1,Particular (sem convênio)
+A307983,1,8.0,31,1,1,Convênio Privado
+A308929,1,7.0,51,1,1,SUS (público)
+A305124,1,7.0,39,1,1,Particular (sem convênio)
+A304060,1,10.0,16,1,1,SUS (público)
+A304997,1,0.0,36,1,1,Convênio Privado
+A306651,1,0.0,23,1,1,Particular (sem convênio)
+A309689,1,3.0,13,1,0,Particular (sem convênio)
+A304660,1,2.0,15,1,1,SUS (público)
+A304888,1,0.0,22,1,1,SUS (público)
+A308764,1,9.0,29,1,1,Convênio Privado
+A301759,1,2.0,13,1,1,Particular (sem convênio)
+A309904,1,3.0,11,1,0,SUS (público)
+A301063,1,6.0,15,1,1,SUS (público)
+A309882,1,1.0,47,1,1,SUS (público)
+A307604,1,0.0,12,1,0,Particular (sem convênio)
+A302344,1,0.0,27,0,1,Particular (sem convênio)
+A306817,1,5.0,34,1,1,SUS (público)
+A300331,1,11.0,15,1,1,SUS (público)
+A308079,1,0.0,15,1,1,SUS (público)
+A307106,1,0.0,14,1,1,SUS (público)
+A305182,1,0.0,21,1,1,Convênio Privado
+A307210,1,0.0,25,1,1,Particular (sem convênio)
+A302008,1,2.0,19,1,0,SUS (público)
+A309584,0,,0,0,0,Convênio Privado
+A306014,1,2.0,25,1,1,SUS (público)
+A309466,1,4.0,32,1,1,SUS (público)
+A308155,1,4.0,17,1,1,Convênio Privado
+A305073,1,5.0,22,0,0,Convênio Privado
+A309187,1,0.0,15,1,1,Particular (sem convênio)
+A301463,1,0.0,14,1,1,Convênio Privado
+A306029,1,2.0,49,1,0,Convênio Privado
+A303645,1,9.0,15,1,1,SUS (público)
+A301148,1,16.0,69,1,1,Particular (sem convênio)
+A305674,1,3.0,69,1,1,Convênio Privado
+A302985,1,10.0,36,1,1,SUS (público)
+A304857,1,2.0,13,1,1,SUS (público)
+A300343,0,,0,0,0,SUS (público)
+A304793,1,8.0,23,1,1,Convênio Privado
+A309458,1,0.0,32,1,1,Convênio Privado
+A305114,1,0.0,17,1,0,SUS (público)
+A308164,1,4.0,21,1,1,SUS (público)
+A305313,1,9.0,18,1,1,Particular (sem convênio)
+A303260,1,5.0,21,1,1,Particular (sem convênio)
+A303709,1,0.0,16,1,1,Particular (sem convênio)
+A302456,1,6.0,14,1,1,SUS (público)
+A301144,1,0.0,56,1,1,Particular (sem convênio)
+A304525,1,0.0,32,1,1,SUS (público)
+A302398,1,2.0,17,1,1,SUS (público)
+A300192,1,5.0,14,0,1,Convênio Privado
+A304019,1,1.0,19,1,1,Particular (sem convênio)
+A306634,1,8.0,15,0,1,Convênio Privado
+A304521,0,,0,0,0,Convênio Privado
+A305477,1,0.0,35,1,1,SUS (público)
+A301966,1,0.0,10,1,1,SUS (público)
+A309756,1,4.0,17,0,1,Convênio Privado
+A309941,1,0.0,33,1,1,SUS (público)
+A301513,0,,0,0,0,Convênio Público/Estatal
+A307175,1,0.0,19,0,1,SUS (público)
+A309628,1,3.0,31,1,1,SUS (público)
+A300091,1,0.0,33,1,1,SUS (público)
+A304033,0,,0,0,0,Convênio Privado
+A303424,1,0.0,48,1,1,Particular (sem convênio)
+A307151,1,4.0,22,1,1,Convênio Privado
+A308078,0,,0,0,0,SUS (público)
+A309710,1,4.0,11,1,1,Convênio Privado
+A308598,1,5.0,19,1,1,Convênio Privado
+A304300,1,7.0,32,1,1,Convênio Privado
+A308715,1,5.0,21,1,1,SUS (público)
+A300617,1,0.0,22,1,1,SUS (público)
+A304277,1,0.0,14,1,1,Convênio Privado
+A304175,1,10.0,16,1,1,Particular (sem convênio)
+A302560,1,0.0,12,1,1,SUS (público)
+A303281,1,0.0,16,1,1,SUS (público)
+A306075,1,12.0,14,1,1,Particular (sem convênio)
+A302167,1,0.0,39,1,1,SUS (público)
+A306105,1,0.0,16,1,1,Convênio Privado
+A303038,1,2.0,15,1,1,Particular (sem convênio)
+A309048,0,,0,0,0,SUS (público)
+A303829,1,1.0,14,1,1,Convênio Privado
+A305358,0,,0,0,0,SUS (público)
+A301145,1,3.0,22,1,1,SUS (público)
+A303687,1,1.0,23,0,1,SUS (público)
+A302444,1,8.0,14,1,1,SUS (público)
+A307917,1,3.0,15,1,1,Particular (sem convênio)
+A303998,1,6.0,14,1,1,SUS (público)
+A306887,1,5.0,14,1,1,Convênio Privado
+A308980,1,0.0,18,1,1,SUS (público)
+A304915,1,7.0,29,0,1,Convênio Público/Estatal
+A309895,1,3.0,17,1,0,Convênio Privado
+A305238,1,11.0,15,1,1,SUS (público)
+A303187,1,0.0,22,1,1,SUS (público)
+A307371,1,3.0,35,1,1,SUS (público)
+A302328,1,5.0,18,0,1,Particular (sem convênio)
+A304816,1,3.0,13,1,1,Convênio Privado
+A303253,1,0.0,15,1,1,Particular (sem convênio)
+A301710,1,0.0,16,1,1,SUS (público)
+A307914,1,0.0,16,1,1,SUS (público)
+A304287,0,,0,0,0,SUS (público)
+A308629,1,0.0,29,1,1,SUS (público)
+A304195,1,4.0,22,1,1,SUS (público)
+A300863,1,0.0,13,1,1,Convênio Privado
+A308109,1,0.0,15,1,1,Convênio Privado
+A302564,1,0.0,12,1,0,SUS (público)
+A303485,1,0.0,16,1,1,SUS (público)
+A303925,1,0.0,43,1,1,SUS (público)
+A307319,1,0.0,15,0,1,Particular (sem convênio)
+A305943,1,1.0,23,1,1,SUS (público)
+A305003,0,,0,0,0,Convênio Privado
+A303132,1,3.0,17,1,1,Convênio Privado
+A309360,1,2.0,11,1,1,Particular (sem convênio)
+A306040,1,7.0,65,1,1,Convênio Privado
+A305570,1,0.0,19,1,1,SUS (público)
+A308975,1,0.0,17,1,1,Particular (sem convênio)
+A302123,1,0.0,17,1,1,SUS (público)
+A307390,1,4.0,21,1,1,SUS (público)
+A307986,1,0.0,29,1,0,SUS (público)
+A305341,1,0.0,14,0,1,SUS (público)
+A302932,1,0.0,36,1,1,SUS (público)
+A306643,1,10.0,22,1,1,Convênio Privado
+A304836,1,0.0,22,1,1,Convênio Privado
+A304116,1,0.0,17,0,1,Particular (sem convênio)
+A307806,1,0.0,17,1,1,SUS (público)
+A301518,1,2.0,26,1,1,SUS (público)
+A302012,1,3.0,33,1,1,Particular (sem convênio)
+A302168,1,0.0,16,1,1,SUS (público)
+A308554,1,0.0,21,1,1,Convênio Público/Estatal
+A303601,1,0.0,17,1,1,SUS (público)
+A300687,0,,0,0,0,SUS (público)
+A301851,1,0.0,43,1,1,SUS (público)
+A302459,1,4.0,12,1,1,SUS (público)
+A308740,1,0.0,32,1,1,SUS (público)
+A300959,1,0.0,19,1,1,SUS (público)
+A305239,1,0.0,22,0,1,SUS (público)
+A300897,1,6.0,10,1,1,Particular (sem convênio)
+A309116,1,0.0,16,1,1,Particular (sem convênio)
+A301814,1,0.0,17,1,1,Convênio Público/Estatal
+A306662,1,3.0,63,1,1,Convênio Privado
+A308747,1,4.0,55,1,1,Convênio Privado
+A301126,1,0.0,17,1,1,Particular (sem convênio)
+A302730,1,0.0,13,1,1,SUS (público)
+A308736,1,10.0,53,1,1,SUS (público)
+A308438,0,,0,0,0,SUS (público)
+A308363,1,0.0,13,1,1,SUS (público)
+A307450,1,4.0,14,1,1,Convênio Privado
+A303500,1,4.0,16,1,0,Convênio Privado
+A303660,1,4.0,69,1,1,Particular (sem convênio)
+A303600,1,4.0,12,1,1,Convênio Privado
+A300507,1,3.0,43,1,1,Convênio Privado
+A305691,1,0.0,11,1,1,Convênio Privado
+A303126,1,0.0,46,1,1,SUS (público)
+A303854,1,0.0,11,1,1,SUS (público)
+A306510,1,3.0,13,1,1,SUS (público)
+A304215,1,0.0,14,1,1,Convênio Privado
+A303160,1,7.0,17,1,1,SUS (público)
+A304778,1,10.0,26,1,1,SUS (público)
+A302942,1,0.0,16,1,1,SUS (público)
+A305510,1,3.0,22,1,1,Convênio Privado
+A306375,1,7.0,21,1,1,SUS (público)
+A306433,1,0.0,29,1,1,SUS (público)
+A308989,1,9.0,12,1,1,Convênio Privado
+A305270,1,3.0,17,1,1,SUS (público)
+A302367,1,0.0,13,1,1,Convênio Público/Estatal
+A304245,1,0.0,22,1,1,Particular (sem convênio)
+A307677,1,0.0,24,1,1,Convênio Privado
+A305177,1,0.0,22,1,1,Particular (sem convênio)
+A304940,0,,0,0,0,Convênio Privado
+A308427,1,2.0,25,1,1,SUS (público)
+A301242,1,4.0,13,1,1,Convênio Privado
+A305953,1,0.0,17,1,1,Convênio Privado
+A307925,1,0.0,10,1,1,Convênio Público/Estatal
+A308769,1,2.0,33,1,1,Convênio Privado
+A308537,1,5.0,22,0,1,SUS (público)
+A301156,1,14.0,21,1,1,SUS (público)
+A308524,1,0.0,21,0,1,Convênio Privado
+A307930,1,0.0,16,1,1,Particular (sem convênio)
+A308450,1,0.0,19,1,0,Convênio Privado
+A300545,1,0.0,19,0,1,SUS (público)
+A307948,1,2.0,14,1,1,Convênio Privado
+A305571,0,,0,0,0,Particular (sem convênio)
+A301510,1,4.0,22,1,1,Convênio Privado
+A304498,1,5.0,34,1,0,SUS (público)
+A307685,1,1.0,17,1,1,Convênio Privado
+A309982,1,1.0,27,1,1,SUS (público)
+A309585,1,12.0,25,1,1,SUS (público)
+A300103,1,0.0,20,1,1,Convênio Privado
+A306438,1,0.0,23,1,1,SUS (público)
+A305533,1,0.0,28,1,1,Convênio Privado
+A306457,1,6.0,34,1,1,Convênio Privado
+A305503,1,1.0,17,1,1,SUS (público)
+A303264,1,2.0,28,1,1,Particular (sem convênio)
+A306806,1,0.0,17,1,1,SUS (público)
+A300129,1,0.0,15,1,1,SUS (público)
+A304928,1,1.0,14,1,1,SUS (público)
+A300642,1,4.0,32,1,1,SUS (público)
+A308797,1,3.0,20,1,1,Particular (sem convênio)
+A306890,1,5.0,58,1,1,SUS (público)
+A300276,1,6.0,16,1,1,SUS (público)
+A305869,1,4.0,51,1,1,SUS (público)
+A302065,1,0.0,14,0,1,Convênio Privado
+A304719,1,0.0,50,1,1,Convênio Privado
+A309463,1,1.0,24,1,1,SUS (público)
+A302586,1,2.0,52,1,1,Particular (sem convênio)
+A306114,1,10.0,11,1,1,SUS (público)
+A306930,1,4.0,41,1,1,SUS (público)
+A304674,1,3.0,17,1,1,Particular (sem convênio)
+A301777,1,0.0,27,1,1,Convênio Privado
+A305825,1,0.0,18,1,1,Convênio Privado
+A308139,1,0.0,17,1,1,Convênio Privado
+A307978,1,1.0,23,1,1,SUS (público)
+A305029,1,5.0,11,1,1,Convênio Privado
+A306757,1,1.0,38,1,1,SUS (público)
+A300359,1,5.0,25,1,1,Convênio Privado
+A308746,1,0.0,20,1,1,Convênio Privado
+A309209,1,7.0,16,1,1,Particular (sem convênio)
+A305310,1,6.0,59,1,1,Particular (sem convênio)
+A305290,1,0.0,18,0,1,SUS (público)
+A302981,1,0.0,14,0,1,Convênio Privado
+A308487,1,0.0,13,1,1,Convênio Privado
+A301139,1,5.0,14,1,1,Convênio Privado
+A308834,0,,0,0,0,Convênio Privado
+A306935,1,0.0,11,1,1,SUS (público)
+A303729,1,6.0,26,1,1,Particular (sem convênio)
+A305544,1,0.0,17,1,1,SUS (público)
+A307699,1,1.0,16,1,1,SUS (público)
+A305446,1,9.0,48,1,1,SUS (público)
+A309049,1,2.0,25,1,1,Convênio Privado
+A304848,1,0.0,19,1,0,Convênio Público/Estatal
+A302812,1,0.0,12,1,1,SUS (público)
+A304481,1,0.0,19,1,1,SUS (público)
+A303369,1,7.0,26,1,1,Convênio Privado
+A301103,1,1.0,22,1,1,SUS (público)
+A308521,0,,0,0,0,SUS (público)
+A307234,1,2.0,14,1,1,Convênio Privado
+A301633,1,0.0,23,1,1,Particular (sem convênio)
+A305015,1,1.0,23,1,0,SUS (público)
+A303785,1,0.0,26,0,1,SUS (público)
+A305009,1,10.0,22,0,1,Convênio Privado
+A305509,1,3.0,33,0,1,SUS (público)
+A303983,1,0.0,50,1,1,SUS (público)
+A301299,1,0.0,17,1,1,SUS (público)
+A305212,1,9.0,18,1,1,SUS (público)
+A308657,1,10.0,30,1,0,SUS (público)
+A306347,1,7.0,16,1,1,SUS (público)
+A300246,1,0.0,50,1,1,Convênio Privado
+A303121,1,8.0,32,1,1,SUS (público)
+A304301,1,9.0,14,1,1,Particular (sem convênio)
+A301601,1,0.0,14,0,1,SUS (público)
+A303108,1,7.0,26,0,1,Convênio Privado
+A300280,1,1.0,15,1,1,Convênio Privado
+A302378,1,0.0,31,1,1,SUS (público)
+A301458,1,2.0,21,1,1,Convênio Privado
+A303576,1,5.0,41,1,1,SUS (público)
+A300150,1,2.0,17,1,1,Particular (sem convênio)
+A307157,1,10.0,13,1,1,Convênio Privado
+A302772,1,6.0,35,1,1,Convênio Privado
+A307828,1,2.0,13,1,1,SUS (público)
